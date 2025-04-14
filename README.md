@@ -1,5 +1,5 @@
 # ssh-connection
-<<<<<<< HEAD
-=======
-# ssh-connection
->>>>>>> 55cd5b5 (first commit)
+Where you'll have all informations about how to run your ssh-connection
+
+## Commands 
+
